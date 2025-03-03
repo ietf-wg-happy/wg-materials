@@ -23,3 +23,10 @@
 
 - **Chair Slides**, _Chairs_, 10 minutes
 
+- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, 45 minutes
+
+- Areas for Coordination, Discussion
+
+- Data Driven Approaches, Discussion
+
+- Reporting Errors Overview
