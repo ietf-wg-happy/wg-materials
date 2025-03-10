@@ -23,10 +23,10 @@
 
 - **Chair Slides**, _Chairs_, 10 minutes
 
-- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, 45 minutes
+- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, 30 minutes
 
-- Areas for Coordination, Discussion
+- **Summary and Areas for Coordination**, _Chairs_, 10 minutes
 
-- Data Driven Approaches, Discussion
+- **Chromium Implementation Status Update**, _Kenichi Ishibashi, Nidhi Jaju_, 15 minutes
 
-- Reporting Errors Overview
+- **Reporting Network Errors to Origins**, _Nic Jansma, Utkarsh Goel_, 15 minutes
