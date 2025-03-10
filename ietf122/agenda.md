@@ -23,7 +23,7 @@
 
 - **Chair Slides**, _Chairs_, 10 minutes
 
-- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, 30 minutes
+- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 30 minutes
 
 - **Summary and Areas for Coordination**, _Chairs_, 10 minutes
 
