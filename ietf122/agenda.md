@@ -25,8 +25,8 @@
 
 - **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 35 minutes
 
-- **Summary and Areas for Coordination**, _Chairs_, 10 minutes
-
 - **Chromium Implementation Status Update**, _Kenichi Ishibashi_, 10 minutes
 
 - **Reporting Network Errors to Origins**, _Nic Jansma, Utkarsh Goel_, 15 minutes
+
+- **Summary and Areas for Coordination**, _Chairs_, 10 minutes
