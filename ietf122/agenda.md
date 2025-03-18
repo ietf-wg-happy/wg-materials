@@ -27,6 +27,6 @@
 
 - **Chromium Implementation Status Update**, _Kenichi Ishibashi_, 10 minutes
 
-- **Reporting Network Errors to Origins**, _Nic Jansma, Utkarsh Goel_, 15 minutes
+- **Reporting Network Errors to Origins**, _Utkarsh Goel, Nic Jansma_, 15 minutes
 
 - **Summary and Areas for Coordination**, _Chairs_, 10 minutes
