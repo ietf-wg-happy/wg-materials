@@ -1,27 +1,39 @@
 # HAPPY Working Group Minutes
 IETF 122, Bangkok
+
 Tuesday, March 18, 17:00 - 18:30 ICT
+
 Location: Boromphimarn 1/2
 
 Session recording: https://www.youtube.com/watch?v=WpuWzn2nSc4
 
 ## Chair's introduction (10 minutes)
 Eric Kinnear (Apple), Tim Chown (Jisc)
+
 Chairs' email: happy-chairs@ietf.org 
+
 Happy WG datatracker page: https://datatracker.ietf.org/wg/happy/about/
+
 Chairs' slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-happy-chair-01
 
 Eric presented the agreed charter.
+
 The main focus of the WG is updating the core happy eyeballs algorithm.
+
 A secondary informational document on reporting connectivity problems may also be published.
+
 Eric confirmed the github mode of working with editors having merge permissions for both editorial and design changes, under the Chair's oversight, at least until we get closer to last call. 
+
 If anyone believes issues are closed prematurely they can email the chairs at happy-chairs@ietf.org.
 
 
 ## HEv3 Draft Discussion
 draft-pauly-happy-happyeyeballs-v3-00
+
 Tommy Pauly, Nidhi Jaju, 35 minutes
+
 Slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-happy-happy-eyeballs-v3-01
+
 Datatracker for draft: https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/
 
 
@@ -74,26 +86,34 @@ Datatracker for draft: https://datatracker.ietf.org/doc/draft-pauly-happy-happye
 
 ## Chromium Implementation Status Update
 Kenichi Ishibashi, 10 minutes
+
 Slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-happy-ietf122-happy-chromium-update-01-00
 
 Brief overview of current behavior of Chromium and updates for the HEv3 implementation - noted different behaviour for TCP and QUIC in the previous version.
+
 The HEv3 rework rewrites the connection attempt logic, sharing DNS resolutions for TCP and QUIC, and attempting connections without waiting for all DNS responses.
+
 Early field experiment coming soon. 
 * Slide 6, bullet 2 clarification: Race TCP and QUIC _until_ known QUIC will work
 * Don't support non-default target names yet but do plan to support it later
 
 Chairs will add a wiki area for implementor notes and any field measurements in the git repo.
+
 Tommy should add a brief implementation section to his draft to point to the wiki (which is removed on final publication).
 
 
 
 ## Reporting Network Errors to Origins
 Nic Jansma, Utkarsh Goel, 15 minutes
+
 Slides: https://datatracker.ietf.org/meeting/122/materials/slides-122-happy-reporting-network-errors-to-origins-01
 
 Examples of potential issues/problems with IPv6/DNS/QUIC/etc were presented.
+
 HE may mask a variety of network issues - a connection may work, but the experience could be improved.
+
 Looking for collaborators/co-authors for a draft on network error logging (NEL).
+
 * Mic:
     * All of this gives you a lot of network topology info on the client, whereas before the server got less information. Hard to give enough info that doesn't cross privacy line. Don't see how this circle can be squared.
     * Tommy P: Where are the mtreics being reported and how?  To the server? The network operator? Aggregated? How real-time does this need to be vs delayed and aggregated? Given this would be an improvement over no feedback currently. Documenting the dimensions around metrics could be useful - what's interesting to measure?  Then we can figure out how to report them separately.
