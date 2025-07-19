@@ -23,8 +23,8 @@
 
 - **Introduction**, _Chairs_, 10 minutes
 
-- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 85 minutes
+- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 70 minutes
 
-- **Reporting Network Errors**, 15 minutes
+- **Reporting Network Errors**, _Jordi Palet_, 30 minutes
 
 - **Closing and Next Steps**, _Chairs_, 10 minutes
