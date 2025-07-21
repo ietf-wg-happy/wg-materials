@@ -21,12 +21,12 @@
 
 ## Topics
 
-- **Introduction**, _Chairs_, 10 minutes
+- **Introduction**, _Chairs_, 5 minutes
 
-- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 55 minutes
+- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 70 minutes
 
 - **Happy Eyeballs Testing**, _Dave Plonka_, 15 minutes
 
-- **Reporting Network Errors**, _Jordi Palet_, 30 minutes
+- **Reporting Network Errors**, _Jordi Palet_, 25 minutes
 
-- **Closing and Next Steps**, _Chairs_, 10 minutes
+- **Closing and Next Steps**, _Chairs_, 5 minutes
