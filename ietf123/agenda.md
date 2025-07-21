@@ -23,7 +23,7 @@
 
 - **Introduction**, _Chairs_, 5 minutes
 
-- **[draft-pauly-happy-happyeyeballs-v3-00](https://datatracker.ietf.org/doc/draft-pauly-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 70 minutes
+- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 70 minutes
 
 - **Happy Eyeballs Testing**, _Dave Plonka_, 15 minutes
 
