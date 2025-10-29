@@ -23,8 +23,10 @@
 
 - **Introduction**, _Chairs_, 10 minutes
 
-- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 90 minutes
+- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 80 minutes
 
 - **Metrics for Happy Eyeballs**, _Gautam Akiwate_, 10 minutes
+
+- **Happy Eyeballs Webtester**, _Johannes Zirngibl_, 10 minutes
 
 - **Closing and Next Steps**, _Chairs_, 5 minutes
