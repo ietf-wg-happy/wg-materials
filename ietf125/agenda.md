@@ -23,8 +23,10 @@
 
 - **Introduction**, _Chairs_, 10 minutes
 
-- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, 80 minutes
+- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, 65 minutes
 
-- **Happy Eyeballs Webtester**, _Johannes Zirngibl_, 15 minutes
+- **Happy Eyeballs v3 in Firefox**, _Max Inden_, 15 minutes
+
+- **[HAPPY-SAD](https://datatracker.ietf.org/doc/draft-trammell-happy-sad/)**, _Brian Trammell_, 15 minutes
 
 - **Closing and Next Steps**, _Chairs_, 5 minutes
