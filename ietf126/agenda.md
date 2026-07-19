@@ -23,27 +23,27 @@
 
 - **Introduction**, _Chairs_, 5 minutes
 
-- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 40 minutes
+- **[draft-ietf-happy-happyeyeballs-v3](https://datatracker.ietf.org/doc/draft-ietf-happy-happyeyeballs-v3/)**, _Tommy Pauly, Nidhi Jaju_, 25 minutes
 
-- **Happy Eyeballs Webtester Update and Hackathon Report**, _Johannes Zirngibl and Tim Betzer_, 10 minutes
-	- Hackathon Activity: https://wiki.ietf.org/en/meeting/126/hackathon#happy-eyeballs-webtester
+- **[Optimistic DNS](https://datatracker.ietf.org/doc/draft-gakiwate-dnsop-optimistic-dns/)**, _Gautam Akiwate_, 10 minutes
 
 - **A Report on Firefox’s HEv3 Implementation**, _Max Inden_, 15 minutes
 
 - **Update on Google/Chromium Implementation, Including Optimistic DNS**, _Kenichi Ishibashi_, 15 minutes
+
+- **Update on Apple's Happy Eyeballs Implementation**, _Tommy Pauly_, 10 minutes
+
+- **Happy Eyeballs Webtester Update and Hackathon Report**, _Johannes Zirngibl and Tim Betzer_, 10 minutes
+	- Hackathon Activity: https://wiki.ietf.org/en/meeting/126/hackathon#happy-eyeballs-webtester
 
 - **HEv3 Event Logging with qlog**, _Mirja Kuehlewind_, 15 minutes
 
 - **[Considerations for Happy Eyeballs Error Reporting](https://datatracker.ietf.org/doc/html/draft-palet-happy-reporting-considerations)**, _Philip Tiesel_, 15 minutes
 	- Including discussion of [HAPPY-SAD](https://datatracker.ietf.org/doc/draft-trammell-happy-sad/)
 
-- **[HAPPY-SAD](https://datatracker.ietf.org/doc/draft-trammell-happy-sad/)**, Brian Trammell, 15 minutes
-
 ### As Time Permits
 
 - **[Enhanced Dual Stack and the Need for an HEv3 OS Implementation Profile](https://datatracker.ietf.org/doc/draft-xiao-v6ops-eds/)**, _Xipeng Xiao_
-
-- **Wrap-up and Next Steps**, _Chairs_, 5 minutes
 
 
 ## Other Related Drafts
