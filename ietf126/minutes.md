@@ -172,7 +172,7 @@ Valentin Goşu: most personas can already get this information... why should app
 
 Brian Trammell: happy-sad not a promise, something between a joke and a threat. reviving the draft. better to think of it as a thought experiment.
 
-Jordi: nine years ago i started asking for error reporting. my customers are isps. their bad situations with IPv6 were hidden by HE. i'm missing a discussion about which personas we care about.
+Jordi: nine years ago i started asking for error reporting. my customers are isps and enterprises. their bad situations with IPv6 were hidden by HE. i'm missing a discussion about which personas we care about.
 
 
 ## As Time Permits
